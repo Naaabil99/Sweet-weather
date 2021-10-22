@@ -2,4 +2,4 @@
 _Proyecto que integra una api de OpenWeather.com para obtener el tiempo del lugar introducido._
 
 ## Descargar Apk
-_Para descargar la apk de esta aplicación solamente tienes que ir a este link:_ [Sweet_weather.apk](dist/app-debug.apk)
+_Para descargar la apk de esta aplicación solamente tienes que ir a este link:_ [Sweet_weather.apk](https://github.com/Naaabil99/Sweet-weather/raw/master/dist/app-debug.apk)
