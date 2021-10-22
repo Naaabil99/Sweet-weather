@@ -6,7 +6,7 @@ _Para descargar la apk de esta aplicación solamente tienes que ir a este link:_
 
 ## Usarlo desde página web :globe_with_meridians:
 
-_Pulsa aquí:_ [Sweet_weather_Web](https://rawcdn.githack.com/Naaabil99/Sweet-weather/fef0afb43e63757d83349e1dda7f64b98bca7a0c/www/index.html)
+_Pulsa aquí:_ [Sweet_weather_Web](https://naaabil99.github.io/Sweet-weather/www/index.html)
 
 ### Autor
 _Nabil Bouazdia_
