@@ -1,4 +1,4 @@
-# Sweet-weather
+# Sweet-weather :sunny:
 _Proyecto que integra una api de OpenWeather.com para obtener el tiempo del lugar introducido._
 
 ## Descargar Apk :beginner:
